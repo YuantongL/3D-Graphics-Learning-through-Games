@@ -6,4 +6,7 @@ This application is programmed using OpenGL and C++. With standard structure of 
 
 Although the application achieved it's goal, in good appearance, but the structure in this application is highly redundant, the program runs in low efficiency, all because lack of good software designing at the very beginning of the program.
 
-![image](https://github.com/YuantongL/3D-Graphics-Learning-through-Games/tree/master/pictures/C/C1.bmp)
+![image](https://github.com/YuantongL/3D-Graphics-Learning-through-Games/blob/master/pictures/GitPicture/P1.jpg)
+![image](https://github.com/YuantongL/3D-Graphics-Learning-through-Games/blob/master/pictures/GitPicture/P2.jpg)
+![image](https://github.com/YuantongL/3D-Graphics-Learning-through-Games/blob/master/pictures/GitPicture/P3.jpg)
+
